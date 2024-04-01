@@ -3,6 +3,7 @@
 name: workflowcf
 on:
   push:
+  pull_request:
   workflow_dispatch:
   
   
